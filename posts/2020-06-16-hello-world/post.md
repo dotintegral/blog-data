@@ -6,7 +6,7 @@ tags:
   - hello world
   - initial post
 description: Well hello, word! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque diam eros, pharetra eget dui vel, tristique efficitur mi.
-cover_image: cover.jpg
+cover_image: ""
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque diam eros, pharetra eget dui vel, tristique efficitur mi. Sed ut fermentum diam, sed dapibus lectus. Nam vitae orci sed lectus tristique rhoncus sit amet vel quam. Proin tristique nulla ut sem scelerisque, a mattis libero dignissim. Praesent imperdiet dolor lorem, ac rutrum elit rutrum et. Cras et nulla et urna convallis volutpat. Sed auctor imperdiet bibendum. Quisque ultricies pulvinar sem, eget dictum quam lacinia vel. Praesent ut nisl id risus tincidunt tristique. Sed vel mi non nulla pulvinar consequat a a turpis. Aliquam metus ex, pharetra vitae convallis vel, cursus quis nibh. Donec venenatis congue lorem, ut tempor urna tincidunt eget. Sed feugiat justo varius leo venenatis, in consectetur lectus mattis. In ullamcorper nulla nec luctus vulputate. Suspendisse quis arcu finibus, imperdiet ante mattis, porttitor neque.
