@@ -1,7 +1,7 @@
 ---
 date: 2020-06-18
 published: true
-title: Is Clean Code still relevant in frontend development?
+title: Is the Clean Code still relevant in frontend development?
 tags:
   - clean code
   - patterns
