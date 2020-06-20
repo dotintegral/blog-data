@@ -5,8 +5,10 @@ published: true
 tags:
   - helloworld
   - initialpost
-description: Well hello, word! 
-cover_image: ""
+description: Well hello, word!
+cover_image:
 ---
 
 Just a hello world. More content to come soon!
+
+![travel](travel.jpg)
