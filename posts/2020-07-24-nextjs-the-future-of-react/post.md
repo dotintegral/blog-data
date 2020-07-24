@@ -7,7 +7,7 @@ tags: nextjs, react, javascript, typescript
 cover_image: cover-next.png
 ---
 
-React and Angular are probably the most popular, competing frameworks right now. They are being used in thousands of commercial and non-commercial projects around the globe. If you ever googled for differences between both of them, you would learn that despite React being a wonderful framework, it's not entirely ready out-of-the-box experience. Angular still has a couple of aces in sleeves. But with [Next.js],(https://nextjs.org/) React can overcame its shortcomings and perhaps end the old dispute "React vs Angular" in it's favour. 
+React and Angular are probably the most popular, competing frameworks right now. They are being used in thousands of commercial and non-commercial projects around the globe. If you ever googled for differences between both of them, you would learn that despite React being a wonderful framework, it's not entirely ready out-of-the-box experience. Angular still has a couple of aces in sleeves. But with [Next.js](https://nextjs.org/) React can overcame its shortcomings and perhaps end the old dispute "React vs Angular" in it's favour. 
 
 # Why React is not complete
 
